@@ -44,7 +44,7 @@ Make sure you have **Python 3.7+** installed. You can download it from [python.o
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/jonofficial/Password-Manager.git
    cd password-manager
 
 # Password Manager
